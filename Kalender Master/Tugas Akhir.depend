@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1528009833 source:d:\alpro\tugas akhir\fungsi.c
+	"header.h"
+
+1527961444 d:\alpro\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528009120 source:d:\alpro\tugas akhir\main.c
+	"header.h"
+
+1528009834 source:g:\algoritma pemrogram\tugas akhir\fungsi.c
+	"header.h"
+
+1527961446 g:\algoritma pemrogram\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528009122 source:g:\algoritma pemrogram\tugas akhir\main.c
+	"header.h"
+
+1561173618 source:e:\c\calendar\tugas akhir\fungsi.c
+	"header.h"
+
+1561171992 e:\c\calendar\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+
+1561173906 source:e:\c\calendar\tugas akhir\main.c
+	"header.h"
+
+1561366123 source:c:\users\labdas\desktop\tugas akhir\fungsi.c
+	"header.h"
+
+1561365795 c:\users\labdas\desktop\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1561175547 source:c:\users\labdas\desktop\tugas akhir\main.c
+	"header.h"
+
+1561448754 source:g:\algoritma pemrogram\kalender 2\fix\tugas akhir\fungsi.c
+	"header.h"
+
+1561365796 g:\algoritma pemrogram\kalender 2\fix\tugas akhir\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1561455496 source:g:\algoritma pemrogram\kalender 2\fix\tugas akhir\main.c
+	"header.h"
+
+1561507972 source:c:\users\husin sufi\desktop\tugas akhir fix\fungsi.c
+	"header.h"
+
+1561365796 c:\users\husin sufi\desktop\tugas akhir fix\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1561529242 source:c:\users\husin sufi\desktop\tugas akhir fix\main.c
+	"header.h"
+
+1562396530 source:c:\users\husin sufi\desktop\fix kalenderrrr\fungsi.c
+	"header.h"
+
+1561365796 c:\users\husin sufi\desktop\fix kalenderrrr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1562396228 source:c:\users\husin sufi\desktop\fix kalenderrrr\main.c
+	"header.h"
+
+1562672836 source:e:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\fungsi.c
+	"header.h"
+
+1561365796 e:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1562672850 source:e:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\main.c
+	"header.h"
+
+1562672914 source:g:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\fungsi.c
+	"header.h"
+
+1561365796 g:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1562672850 source:g:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\main.c
+	"header.h"
+
+1562672914 source:f:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\fungsi.c
+	"header.h"
+
+1561365796 f:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1562672850 source:f:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\main.c
+	"header.h"
+
+1562672914 source:d:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\fungsi.c
+	"header.h"
+
+1561365796 d:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<Windows.h>
+	<dos.h>
+	<string.h>
+
+1562672850 source:d:\algoritma pemrogram\kalender 2\tenan\fix kalenderrrr\main.c
+	"header.h"
+
